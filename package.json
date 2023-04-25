@@ -1,0 +1,13 @@
+{
+  "name": "net.bobbo.camera-manager",
+  "version": "0.0.1",
+  "displayName": "Bobbo-Net Camera Manager",
+  "author": {
+    "name": "BOBBO-NET",
+    "url": "https://bobbo.net"
+  },
+  "dependencies": {
+    "net.bobbo.camera-audio-listener": "0.0.1",
+    "com.svermeulen.extenject": "9.2.0"
+  }
+}
