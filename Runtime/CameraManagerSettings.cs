@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BobboNet.CameraAudioListener
+namespace BobboNet
 {
     [System.Serializable]
     public class CameraManagerSettings

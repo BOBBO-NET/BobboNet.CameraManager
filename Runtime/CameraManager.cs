@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.CameraAudioListener
+namespace BobboNet
 {
     public class CameraManager : MonoBehaviour
     {

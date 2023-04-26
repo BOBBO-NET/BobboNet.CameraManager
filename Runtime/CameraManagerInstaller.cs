@@ -1,7 +1,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.CameraAudioListener
+namespace BobboNet
 {
     [CreateAssetMenu(fileName = "CameraManagerInstaller", menuName = "Installers/CameraManagerInstaller")]
     public class CameraManagerInstaller : ScriptableObjectInstaller<CameraManagerInstaller>
